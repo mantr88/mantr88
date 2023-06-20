@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Petrenko
 - 👀 I’m interested in getting enough knowledge to work as a developer 
-- 🌱 I’m currently learning React and TypeScript
+- 🌱 I’m currently learning Node.js and TypeScript
 - 📫 How to reach me antpetrenko23@gmail.com
 
 <!---
