@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anton Petrenko
 - 👀 I’m interested in getting enough knowledge to work as a developer 
-- 🌱 I’m currently learning Node.js and TypeScript
-- 📫 How to reach me antpetrenko23@gmail.com
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me => antpetrenko23@gmail.com or @antPetrenko in Telegram
 
 <!---
 mantr88/mantr88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
