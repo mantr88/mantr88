@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Petrenko
 - 👀 I’m interested in getting enough knowledge to work as a developer 
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning MySQL databases
 - 📫 How to reach me => antpetrenko23@gmail.com or @antPetrenko in Telegram
 
   ### My stack and tools:
