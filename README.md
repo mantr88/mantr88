@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Petrenko
 - 👀 I’m interested in getting enough knowledge to work as a developer 
-- 🌱 I’m currently learning MySQL databases and NestJS
+- 🌱 I’m currently learning Algorithms and Data structure
 - 📫 How to reach me => antpetrenko23@gmail.com or @antPetrenko in Telegram
 
   ### My stack and tools:
