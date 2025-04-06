@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Petrenko
 - 👀 I’m interested in getting enough knowledge to work as a developer 
-- 🌱 I’m currently learning Algorithms and Data structure
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me => antpetrenko23@gmail.com or @antPetrenko in Telegram
 
   ### My stack and tools:
