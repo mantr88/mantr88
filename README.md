@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anton Petrenko
-- 👀 I’m interested in getting enough knowledge to work as a developer 
+- 🎉 I’m work as a web developer 
 - 🌱 I’m currently learning Vue.js and Nuxtjs
 - 📫 How to reach me => antpetrenko23@gmail.com or @antPetrenko in Telegram
 
