@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anton Petrenko
 - 👀 I’m interested in getting enough knowledge to work as a developer 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Vue.js and Nuxtjs
 - 📫 How to reach me => antpetrenko23@gmail.com or @antPetrenko in Telegram
 
   ### My stack and tools:
